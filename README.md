@@ -2,7 +2,7 @@
 
 ## OVERALL SUMMARY
 
-This crypto portfolio dashboard provides a consolidated view of digital assets, showing real-time balances, transactions, and performance trends. The top section highlights the current value and week-over-week percentage change for major holdings like Bitcoin (BTC at $8,521, up 2.13%), Ethereum (ETH at $6,980, up 14%), Nexo ($7,502, up 4%), and Solana (SOL at $10,323, up 15%). A line chart tracks total balance fluctuations across the week, reflecting daily peaks and dips in overall portfolio value.
+This crypto dashboard provides a consolidated view of digital assets, showing real-time balances, transactions, and performance trends. The top section highlights the current value and week-over-week percentage change for major holdings like Bitcoin (BTC at $8,521, up 2.13%), Ethereum (ETH at $6,980, up 14%), Nexo ($7,502, up 4%), and Solana (SOL at $10,323, up 15%). A line chart tracks total balance fluctuations across the week, reflecting daily peaks and dips in overall portfolio value.
 
 Transaction history captures activity across different currencies, displaying execution times, prices, and statuses. Completed trades dominate BTC activity, while ETH and SOL have some failed or pending orders, signaling network or exchange execution issues. A detailed breakdown on the right panel shows BTC trades with timestamps, amounts, and totals, reflecting both small test transactions and larger volume trades. Overall, the dashboard offers a clear snapshot of asset performance, trading status, and weekly growth trends, helping track profitability and risks effectively.
 
